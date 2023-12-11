@@ -1,6 +1,13 @@
 body {
   cursor: url("../assets/cursor/yugicursor.png"), default;
 }
+/* 
+@media (max-width: 1050px) {
+  .container {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+} */
 
 button,
 a,
